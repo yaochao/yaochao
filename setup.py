@@ -15,4 +15,5 @@ setup(
     keywords=['yaochao'],
     license="MIT",
     url="https://github.com/yaochao",
+    download_url="https://github.com/yaochao/yaochao/archive/0.0.1.tar.gz",
 )
