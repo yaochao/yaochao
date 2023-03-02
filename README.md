@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/{yaochao}/count.svg" alt="zxyle visitor count" />
+
+### netcard
+<img src="https://tool.lu/netcard" alt="netcard" />
