@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/{yaochao}/count.svg" alt="zxyle visitor count" />
 
 ### netcard
-<img src="https://tool.lu/netcard" alt="netcard" />
+<img src="https://tool.lu/netcard?name={yaochao}" alt="netcard" />
